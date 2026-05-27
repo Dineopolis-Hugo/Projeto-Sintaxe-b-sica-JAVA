@@ -43,7 +43,7 @@ O sistema possui funcionalidades como:
 
 - Java
 - Terminal/Console
-- IDE de preferência do usuário
+- IDE INTELIJ
 
 ---
 
